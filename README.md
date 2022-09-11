@@ -1,6 +1,6 @@
 ## 7Learnings coding challange
 
-Note that this is a very ruff analysis due to time containts. The original task can be found here https://github.com/7Learnings/code-challenges/tree/master/datascience and https://github.com/LukasSalchow/7Learnings-code-challenges-datascience/blob/main/Coding%20Challenge.ipynb
+Note that due to time constraints I only did a very ruff analysis. The original task can be found here [general task description](https://github.com/7Learnings/code-challenges/tree/master/datascience) and [details](https://github.com/LukasSalchow/7Learnings-code-challenges-datascience/blob/main/Coding%20Challenge.ipynb).
 
 ## Some things left one due to time constrains
 
