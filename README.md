@@ -1,8 +1,8 @@
-## This is a very ruff analysis I have done as a coding challange for 7Learnings. 
+## 7Learnings coding challange. 
 
-The original task can be found here https://github.com/7Learnings/code-challenges/tree/master/datascience and https://github.com/LukasSalchow/7Learnings-code-challenges-datascience/blob/main/Coding%20Challenge.ipynb
+Note that is is a very ruff analysis due to time containts. The original task can be found here https://github.com/7Learnings/code-challenges/tree/master/datascience and https://github.com/LukasSalchow/7Learnings-code-challenges-datascience/blob/main/Coding%20Challenge.ipynb
 
-## Dude to time constraints I didn't do the following:
+## Some things left one due to time constrains
 
 More data Cleaning:
 - Scatter plots, time vs columns
