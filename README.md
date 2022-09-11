@@ -1,6 +1,6 @@
-## 7Learnings coding challange. 
+## 7Learnings coding challange
 
-Note that is is a very ruff analysis due to time containts. The original task can be found here https://github.com/7Learnings/code-challenges/tree/master/datascience and https://github.com/LukasSalchow/7Learnings-code-challenges-datascience/blob/main/Coding%20Challenge.ipynb
+Note that this is a very ruff analysis due to time containts. The original task can be found here https://github.com/7Learnings/code-challenges/tree/master/datascience and https://github.com/LukasSalchow/7Learnings-code-challenges-datascience/blob/main/Coding%20Challenge.ipynb
 
 ## Some things left one due to time constrains
 
@@ -24,3 +24,7 @@ Better Models:
     - Data augmentation of snow days
     - Use all data with different metric e.g. a weighted one or F1 Metric
     - auroc (area under roc curve/likelihood of model distinguishing observations from two classes)
+
+## Why are the outputs removed from the notebook?
+
+My git is configured such that it automatically removes outputs from notebooks to avoid putting large generated data such as pictures into git repos.
